@@ -17,7 +17,6 @@ function getInputValueById(priceID) {
 }
 // -------------------------- //  
 
-// --------------- //
 const allBtn = document.querySelectorAll('#add-seat');
 let count1 = 0;
 let count2 = 40;
